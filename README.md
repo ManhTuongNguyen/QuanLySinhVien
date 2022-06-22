@@ -2,7 +2,6 @@
 ## Đề tài: Quản lý sinh viên - mã hóa dữ liệu.
 
 ## Lưu ý:
-- Các câu lệnh được đặt trong dấu ngoặc kép và không bao gồm dấu ngoặc kép!
 - Chức năng gửi email qua Gmail SMTP server không còn hoạt động kể từ 30/5/2022 (https://support.google.com/accounts/answer/6010255?hl=en)
 - Do đó chức năng quên mật khẩu không còn khả dụng.
 - Chức năng đăng nhập bằng mã xác nhận không còn khả dụng.
@@ -13,7 +12,10 @@
 ##### B1. Clone code.
 - Tạo một thư mục mới
 - Mở cmd và chuyển đến thư mục này
-- Chạy lệnh sau: "git clone https://github.com/ManhTuongNguyen/QuanLySinhVien.git"
+- Chạy lệnh sau:
+```sh
+git clone https://github.com/ManhTuongNguyen/QuanLySinhVien.git
+```
 
 ##### B2. Tạo cơ sở dữ liệu.
 - Mở SQL Server Managerment Studio
