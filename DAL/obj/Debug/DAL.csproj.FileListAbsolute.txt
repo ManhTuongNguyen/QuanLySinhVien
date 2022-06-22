@@ -1,0 +1,11 @@
+D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\bin\Debug\DAL.dll
+D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\bin\Debug\DAL.pdb
+D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\obj\Debug\DAL.dll
+D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\obj\Debug\DAL.pdb
+D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\bin\Debug\DTO.dll
+D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\bin\Debug\DTO.pdb
+D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\obj\Debug\DAL.csproj.CopyComplete
