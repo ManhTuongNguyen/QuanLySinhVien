@@ -10,3 +10,16 @@ D:\Source Code\QuanLySinhVien\QuanLySinhVien\BLL\bin\Debug\DAL.dll
 D:\Source Code\QuanLySinhVien\QuanLySinhVien\BLL\bin\Debug\DAL.pdb
 D:\Source Code\QuanLySinhVien\QuanLySinhVien\BLL\obj\Debug\BLL.Properties.Resources.resources
 D:\Source Code\QuanLySinhVien\QuanLySinhVien\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\bin\Debug\BLL.dll
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\bin\Debug\BLL.pdb
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\bin\Debug\DAL.dll
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\bin\Debug\DTO.dll
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\bin\Debug\DAL.pdb
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\bin\Debug\DTO.pdb
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\obj\Debug\BLL.dll
+D:\Code\C#\Test_QLTV\QuanLySinhVien\BLL\obj\Debug\BLL.pdb

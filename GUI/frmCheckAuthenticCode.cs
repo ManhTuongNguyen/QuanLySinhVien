@@ -28,20 +28,25 @@ namespace GUI
         {
             InitializeComponent();
             authenticCode = GenerateCode.Code();
+            
+            /* Gửi email mã xác nhận | Không còn hoạt động. Đọc README.MD
             emailAddress = _email;
             subject = SendEmailHelper.GetSubjectEmail_AuthenticCode();
             nameRecieve = _nameRecieve;
             body = SendEmailHelper.GetBodyMessage_AuthenticCode(nameRecieve, authenticCode);
+            */
         }
 
         private void frmCheckAuthenticCode_Load(object sender, EventArgs e)
         {
+            /* 
             SendAuthenticCode(subject, body, emailAddress);
             string emailWithLessInfo = SendEmailHelper.GetEmaiAddresslWithLessInfo(emailAddress);
             string message = $"Đã gửi mã xác nhận đến tài khoản {emailWithLessInfo}\n";
             message += "Vui lòng kiểm tra hộp thư đến để lấy mã xác nhận!\n";
             message += "Nếu không thấy tin nhắn, hãy kiểm tra trong mục SPAM!";
             MessageBox.Show(message, "Thông báo", MessageBoxButtons.OK);
+            */
 
             //Bắt đầu tính thời gian tồn tại của
             //mã xác nhận kể từ thời điểm user ấn nút OK
@@ -123,8 +128,8 @@ namespace GUI
 
         private void btnAuthentication_Click(object sender, EventArgs e)
         {
-            //if (true)
-            if (txtAuthenticCode.Text == authenticCode)
+            if (true)
+            // if (txtAuthenticCode.Text == authenticCode)
             {
                 this.DialogResult = DialogResult.OK;
                 this.Close();

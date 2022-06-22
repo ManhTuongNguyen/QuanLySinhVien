@@ -9,3 +9,14 @@ D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\obj\Debug\DAL.pdb
 D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\bin\Debug\DTO.dll
 D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\bin\Debug\DTO.pdb
 D:\Source Code\QuanLySinhVien\QuanLySinhVien\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Code\C#\Test_QLTV\QuanLySinhVien\DAL\bin\Debug\DAL.dll
+D:\Code\C#\Test_QLTV\QuanLySinhVien\DAL\bin\Debug\DAL.pdb
+D:\Code\C#\Test_QLTV\QuanLySinhVien\DAL\bin\Debug\DTO.dll
+D:\Code\C#\Test_QLTV\QuanLySinhVien\DAL\bin\Debug\DTO.pdb
+D:\Code\C#\Test_QLTV\QuanLySinhVien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Code\C#\Test_QLTV\QuanLySinhVien\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\Code\C#\Test_QLTV\QuanLySinhVien\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Code\C#\Test_QLTV\QuanLySinhVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Code\C#\Test_QLTV\QuanLySinhVien\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Code\C#\Test_QLTV\QuanLySinhVien\DAL\obj\Debug\DAL.dll
+D:\Code\C#\Test_QLTV\QuanLySinhVien\DAL\obj\Debug\DAL.pdb

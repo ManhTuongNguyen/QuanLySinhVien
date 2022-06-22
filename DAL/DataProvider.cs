@@ -11,7 +11,8 @@ namespace DAL
     public class DataProvider
     {
         //Lấy connection string từ resource và giải mã
-        private readonly string connectionString = MyEncryptHelper.Decrypt(Properties.Resources.ConnectionString);
+        // Thay thế chuỗi kết nối sql của bạn tại đây
+        private readonly string connectionString = "Server=.;Database=QuanLySinhVien;User Id=sa;Password=123;";
         
         //SingleTon
         private static DataProvider instance;

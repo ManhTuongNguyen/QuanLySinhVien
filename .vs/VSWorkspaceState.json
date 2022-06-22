@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BLL",
     "\\BLL\\Properties",
-    "\\GUI\\Properties"
+    "\\GUI"
   ],
-  "SelectedNode": "\\BLL\\SendEmailHelper.cs",
+  "SelectedNode": "\\DAL",
   "PreviewInSolutionExplorer": false
 }
