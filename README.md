@@ -27,3 +27,10 @@ git clone https://github.com/ManhTuongNguyen/QuanLySinhVien.git
 - Chỉnh sửa chuỗi kết nối sql tại DAL\DataProvider.cs
 - Select Startup Item chọn GUI.csproj
 - Chạy ứng dụng (Tài khoản: admin, mật khẩu: admin)
+
+
+### Screenshot
+![Screenshot](Capture_DB.PNG)
+![Screenshot](Capture_1.PNG)
+![Screenshot](Capture_2.PNG)
+![Screenshot](Capture_3.PNG)
