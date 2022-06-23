@@ -3,7 +3,7 @@
 
 ## Lưu ý:
 - Chức năng gửi email qua Gmail SMTP server không còn hoạt động kể từ 30/5/2022 [(Thông tin)](https://support.google.com/accounts/answer/6010255?hl=en)
-- Có thể dùng Outlook service để thay thế [(Hướng dẫn)]([https://support.google.com/accounts/answer/6010255?hl=en](https://www.acodersjourney.com/how-to-send-email-using-csharp-and-outlook/)
+- Có thể dùng Outlook service để thay thế [(Hướng dẫn)](https://www.acodersjourney.com/how-to-send-email-using-csharp-and-outlook/)
 - Do đó chức năng quên mật khẩu không còn khả dụng.
 - Chức năng đăng nhập bằng mã xác thực không còn khả dụng.
 - Ứng dụng có giao diện rất xấu, cân nhắc khi sử dụng.
