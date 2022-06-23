@@ -23,9 +23,8 @@ git clone https://github.com/ManhTuongNguyen/QuanLySinhVien.git
 - Copy query từ file ```QLSV.sql``` (file nằm cùng cấp với các project BLL, DAL, ...)
 - Chạy query (F5)
 #### B3. Chạy Project
-- Mở project bằng ```Visual Studio``` (Project là project cha chứa các project BLL, DAL, ...)
+- Mở project bằng cách nháy đúp chuột vào file ```QuanLySinhVien.sln```
 - Chỉnh sửa chuỗi kết nối sql tại biến ```connectionString``` trong ```DAL\DataProvider.cs```
-- ```Select Startup Item``` chọn ```GUI.csproj```
 - Chạy ứng dụng (Tài khoản: admin, mật khẩu: admin)
 
 
