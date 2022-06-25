@@ -1,5 +1,5 @@
 # Đồ án kết thúc môn học an toàn và bảo mật thông tin.
-## Đề tài: Quản lý sinh viên - mã hóa dữ liệu.
+Đề tài: Quản lý sinh viên - mã hóa dữ liệu.
 
 ## Lưu ý:
 - Chức năng gửi email qua Gmail SMTP server không còn hoạt động kể từ 30/5/2022 ([Thông tin](https://support.google.com/accounts/answer/6010255?hl=en)).
